@@ -1,6 +1,3 @@
-Certainly! Based on the structure and content of your repository [rajanandraj04/Travel\_Buddy](https://github.com/rajanandraj04/Travel_Buddy), here's a comprehensive `README.md` file tailored for your project:
-
----
 
 # 🧳 Travel Buddy
 
